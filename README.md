@@ -2,7 +2,7 @@
 
 **Version:** v1.0.0  
 **Status:** Stable  
-**Last updated:** 2026-03-30
+**Last updated:** 2026-04-07
 
 ## Table of Contents
 
@@ -23,7 +23,10 @@
 
 ## Introduction
 
-This checklist defines a baseline standard for Web3 incident response after a hack, exploit, or security incident (key compromise, flash-loan attack, UI/DNS compromise, etc.). It is intended to be used by protocol teams during live incidents and by auditors to verify that containment, forensics, communication, recovery, and post-mortem processes meet production-grade security and operational maturity.  
+Protocol Incident Response, Done Right.
+
+This checklist defines a production-grade baseline standard for Web3 incident response in the critical hours after a hack, exploit, or security incident, including key compromise, flash-loan attacks, UI/DNS hijacking, oracle manipulation, governance attacks, and more.
+Designed for protocol teams who need a clear, battle-tested sequence of actions when every second counts, and for auditors verifying that a protocol's security posture and operational maturity meet the bar required for real-world deployment.
 
 **Core Rule (BLOCKER if violated):** Containment BEFORE investigation or communication. No debugging, no detailed tweets until losses are contained.
 
