@@ -156,12 +156,6 @@ Please ensure that your changes follow the style and formatting conventions used
 
 Thank you for helping us improve this security resource for the Web3 community!
 
-## About Shred Security
-
-Shred Security is a research-driven security firm specializing in smart contract auditing, threat modeling, and blockchain security.
-
-For review engagements, deployment war rooms, or full protocol audits, you can reach us at [shredsec.xyz](https://shredsec.xyz).
-
 ## License
 
 © 2026 Shred Security
@@ -169,3 +163,9 @@ For review engagements, deployment war rooms, or full protocol audits, you can r
 This work is licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0).
 
 You are free to share and adapt this checklist for any purpose, including commercial use, provided appropriate credit is given to Shred Security.
+
+## About Shred Security
+
+Shred Security is a research-driven security firm specializing in smart contract auditing, threat modeling, and blockchain security.
+
+For review engagements, deployment war rooms, or full protocol audits, you can reach us at [shredsec.xyz](https://shredsec.xyz).
