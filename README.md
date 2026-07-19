@@ -168,4 +168,4 @@ You are free to share and adapt this checklist for any purpose, including commer
 
 Shred Security is a research-driven security firm specializing in smart contract auditing, threat modeling, and blockchain security.
 
-For review engagements, deployment war rooms, or full protocol audits, you can reach us at [shredsec.xyz](https://shredsec.xyz).
+For review engagements, deployment war rooms, or full protocol audits, you can reach us at [shredsecurity.io](https://shredsecurity.io).
